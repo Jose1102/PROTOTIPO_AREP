@@ -16,6 +16,7 @@
 - [Requisitos](#requisitos-).
 - [Enunciado](#enunciado).
 - [Informacion](#Informacion-).
+- [Video](#Video-).
 - [Licencia](#licencia-)
 
 
@@ -45,7 +46,9 @@ Es un servicio ofrecido por Amazon Web Services que proporciona almacenamiento d
 
 Es un servicio que facilita la incorporación de un potente análisis visual a sus aplicaciones. Rekognition Image le permite crear potentes aplicaciones para la búsqueda, verificación y organización de millones de imágenes. Rekognition Video le permite extraer contexto basado en movimiento de vídeos almacenados o transmitidos en directo, y le ayuda a analizarlos.
 
+## Video
 
+[Video](https://www.youtube.com/watch?v=zb6GUQZuZpY)
 ## Licencia 📌
 
 Este proyecto está bajo la Licencia Pública General GNU - consulte el archivo de [LICENCIA](https://github.com/Jose1102/PROTOTIPO_AREP/blob/main/LICENSE.txt) para obtener más detalles.
