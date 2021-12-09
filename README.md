@@ -48,4 +48,4 @@ Es un servicio que facilita la incorporación de un potente análisis visual a s
 
 ## Licencia 📌
 
-Este proyecto está bajo la Licencia Pública General GNU - consulte el archivo de [LICENCIA](https://github.com/Jose1102/PicasYFamasGame/blob/master/LICENSE.txt) para obtener más detalles.
+Este proyecto está bajo la Licencia Pública General GNU - consulte el archivo de [LICENCIA](https://github.com/Jose1102/PROTOTIPO_AREP/blob/main/LICENSE.txt) para obtener más detalles.
