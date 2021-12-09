@@ -17,6 +17,7 @@
 - [Enunciado](#enunciado).
 - [Informacion](#Informacion-).
 - [Video](#Video-).
+- [Paper](#Paper-).
 - [Licencia](#licencia-)
 
 
@@ -49,6 +50,11 @@ Es un servicio que facilita la incorporación de un potente análisis visual a s
 ## Video
 
 [Video](https://www.youtube.com/watch?v=zb6GUQZuZpY)
+
+
+## Paper
+
+[Paper](https://github.com/Jose1102/PROTOTIPO_AREP/blob/main/Proyecto%20Arquitectura%20empresarial%20Jose%20Castro-Daniel%20Ducuara/Proyecto_Arep.pdf)
 ## Licencia 📌
 
 Este proyecto está bajo la Licencia Pública General GNU - consulte el archivo de [LICENCIA](https://github.com/Jose1102/PROTOTIPO_AREP/blob/main/LICENSE.txt) para obtener más detalles.
